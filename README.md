@@ -5,6 +5,8 @@
 This project was assigned to 4 group members (Rylan, Emmy, Caleb, and Sammie) as a VR game which includes themes of a biblical story and relates to Grand Canyon University.
 Our game follows a cooking adventure in which you are crafting up orders at Chick Fil-A for Jesus to 'Feed the Five Thousand' as the Bible story states (additionally - there are two Chick Fil-As on GCU's campus).
 
+[5-minute demo video](https://www.loom.com/share/605e0818d1174875bafe76c240578529)
+
 ## Running the game:
 
 The included unity file uses the Universal render pipeline. There should not be any issues upon installation, but it may require that materials be reimported/updated to URP. 
